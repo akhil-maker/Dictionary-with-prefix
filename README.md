@@ -1,12 +1,12 @@
 # Dictionary-with-prefix
 ## Purpose
 This project is developed to provide the implementation of a dictionary in which a list of words is stored along with their corresponding relevant meaning. This project allows a person to store as many word meanings as one requires add and search in those word meanings. It allows the user to populate the list with large amount of data in an acceptable format with an efficient timeframe and still it remains searchable.
-##Manifest
+## Manifest
 •	test_extract.cpp      
 This is the main file of the project in which the main program is present which needs to be executed and compiled so as to get the process run and work to produce the desired output. This is a source code file which contains the main logic for the implementation of dictionary and also it contains the implementation of dictionary with the processes and functions that need to be followed to produce the dictionary. The model is backed with the implementation of a tree data structure called as ‘trie’, often also known by name of ‘prefix tree’ or ‘digital tree’. It is more same as a binary tree but it allows multiple child nodes that contains the alphabetic nodes and a string value is assigned to each node that makes the traversal process easy.
 •	dictionary.txt
 This is the file that acts as a storage area of words along with their meanings provided in an acceptable format. It is a large storage area in the form of text file which stores words with their meanings in the list form. Whenever the main program is executed, all the words are processed along with their meanings in the main program and are added to map standard library in the main program. 
-##Implementation Notes
+## Implementation Notes
 The implementation of dictionary with prefix is backed by a tree data structure, ‘trie’ which is commonly referred to as ‘prefix tree’ or ‘digital tree’.
 It is utilized for finding specific keys from inside a set. The keys are all the more frequently strings, with joins between hubs characterized not by the whole key, but rather by individual characters. A trie or prefix tree is a tree data structure used to proficiently store and recover keys in a dataset of strings. In this structure, each node has a maximum of the child nodes for all alphabetical letters such that they will be changed to their respective index.
 A string value is assigned to each child node that will be the word of the dictionary having some meanings. These word meanings are added to the text file and also these nodes have their own set of child nodes.
