@@ -1,0 +1,7 @@
+Dictionary with prefix
+Trie Implementation
+This project is implemented by the backend of 'trie' data structure. 
+Trie data structure is commonly referred to as 'prefix tree' or 'digital tree'.
+It is utilized for finding specific keys from inside a set. The keys are all the more frequently strings, 
+with joins between hubs characterized not by the whole key, but rather by individual characters.
+A trie or prefix tree is a tree data structure used to proficiently store and recover keys in a dataset of strings.

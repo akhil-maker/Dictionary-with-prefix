@@ -1,0 +1,17 @@
+Requirements
+
+1. Get the source code
+
+2. GCC compiler
+
+3. Visual Studio Code or Desktop Development with C++ workload
+
+4. A suitable IDE to run the CPP program
+
+5. Command line build tools for visual Studio
+
+6. Install C++ support in visual studio code
+
+7. Windows 10 or later
+
+8. Get mingw tools if required to run in terminal
